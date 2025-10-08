@@ -1,0 +1,225 @@
+cms,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,1.0,1.0,1.0,1.0,688.4611132144928,0.7,nyc
+cms_sampling,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9998991070978157,0.9938524590163934,1.0,0.9969167523124358,341.12245893478394,0.7,nyc
+cms_earlystopping,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9837562427483226,1.0,0.004123711340206186,0.008213552361396304,34.83893442153931,0.7,nyc
+cms_minhash,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9999663690326053,1.0,0.9979381443298969,0.9989680082559339,1.6689300537109375e-05,0.7,nyc
+cms_minhash_lsh,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9999663690326053,1.0,0.9979381443298969,0.9989680082559339,0.02208876609802246,0.7,nyc
+cms,disc.csv,A52 Group Violence S,medium,1.0,1.0,1.0,1.0,695.8684720993042,0.7,nyc
+cms_sampling,disc.csv,A52 Group Violence S,medium,1.0,1.0,1.0,1.0,344.76509714126587,0.7,nyc
+cms_earlystopping,disc.csv,A52 Group Violence S,medium,0.9890363046293027,0.0,0.0,0.0,34.18480324745178,0.7,nyc
+cms_minhash,disc.csv,A52 Group Violence S,medium,1.0,1.0,1.0,1.0,1.5735626220703125e-05,0.7,nyc
+cms_minhash_lsh,disc.csv,A52 Group Violence S,medium,1.0,1.0,1.0,1.0,0.023801565170288086,0.7,nyc
+cms,kcey-vehy.csv,qsurveyzone_home,high,1.0,1.0,1.0,1.0,695.4935772418976,0.7,nyc
+cms_sampling,kcey-vehy.csv,qsurveyzone_home,high,1.0,1.0,1.0,1.0,344.87095880508423,0.7,nyc
+cms_earlystopping,kcey-vehy.csv,qsurveyzone_home,high,1.0,1.0,1.0,1.0,34.5950813293457,0.7,nyc
+cms_minhash,kcey-vehy.csv,qsurveyzone_home,high,1.0,1.0,1.0,1.0,2.2411346435546875e-05,0.7,nyc
+cms_minhash_lsh,kcey-vehy.csv,qsurveyzone_home,high,1.0,1.0,1.0,1.0,0.0005483627319335938,0.7,nyc
+cms,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,695.8243114948273,0.7,nyc
+cms_sampling,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,345.39896726608276,0.7,nyc
+cms_earlystopping,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,0.9890363046293027,0.0,0.0,0.0,34.24900197982788,0.7,nyc
+cms_minhash,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,2.5987625122070312e-05,0.7,nyc
+cms_minhash_lsh,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,0.02419567108154297,0.7,nyc
+cms,i6ky-n2wd.csv,_2_superintendent,medium,1.0,1.0,1.0,1.0,696.8625817298889,0.7,nyc
+cms_sampling,i6ky-n2wd.csv,_2_superintendent,medium,0.9998822916141182,1.0,0.9860279441117764,0.992964824120603,345.7601215839386,0.7,nyc
+cms_earlystopping,i6ky-n2wd.csv,_2_superintendent,medium,0.9915754426676083,0.0,0.0,0.0,34.25387716293335,0.7,nyc
+cms_minhash,i6ky-n2wd.csv,_2_superintendent,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,1.9550323486328125e-05,0.7,nyc
+cms_minhash_lsh,i6ky-n2wd.csv,_2_superintendent,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,0.024546384811401367,0.7,nyc
+cms,45nu-yrf2.csv,6 EXPULSIONS,medium,1.0,1.0,1.0,1.0,697.8487255573273,0.7,nyc
+cms_sampling,45nu-yrf2.csv,6 EXPULSIONS,medium,1.0,1.0,1.0,1.0,346.22913646698,0.7,nyc
+cms_earlystopping,45nu-yrf2.csv,6 EXPULSIONS,medium,0.9890363046293027,0.0,0.0,0.0,34.30549216270447,0.7,nyc
+cms_minhash,45nu-yrf2.csv,6 EXPULSIONS,medium,1.0,1.0,1.0,1.0,2.5033950805664062e-05,0.7,nyc
+cms_minhash_lsh,45nu-yrf2.csv,6 EXPULSIONS,medium,1.0,1.0,1.0,1.0,0.024071455001831055,0.7,nyc
+cms,disc.csv,A29 Gang Related Behavior R,medium,1.0,1.0,1.0,1.0,698.3701014518738,0.7,nyc
+cms_sampling,disc.csv,A29 Gang Related Behavior R,medium,1.0,1.0,1.0,1.0,346.2889711856842,0.7,nyc
+cms_earlystopping,disc.csv,A29 Gang Related Behavior R,medium,0.9890363046293027,0.0,0.0,0.0,34.25845956802368,0.7,nyc
+cms_minhash,disc.csv,A29 Gang Related Behavior R,medium,1.0,1.0,1.0,1.0,2.1457672119140625e-05,0.7,nyc
+cms_minhash_lsh,disc.csv,A29 Gang Related Behavior R,medium,1.0,1.0,1.0,1.0,0.023770570755004883,0.7,nyc
+cms,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,1.0,1.0,1.0,1.0,699.8389408588409,0.7,nyc
+cms_sampling,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,1.0,1.0,1.0,1.0,345.2833755016327,0.7,nyc
+cms_earlystopping,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,0.9890363046293027,0.0,0.0,0.0,34.2917001247406,0.7,nyc
+cms_minhash,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,1.0,1.0,1.0,1.0,2.5033950805664062e-05,0.7,nyc
+cms_minhash_lsh,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,1.0,1.0,1.0,1.0,0.023892879486083984,0.7,nyc
+cms,naib-xtez.csv,a40_taking_property_without,medium,1.0,1.0,1.0,1.0,699.4730894565582,0.7,nyc
+cms_sampling,naib-xtez.csv,a40_taking_property_without,medium,0.9998822916141182,1.0,0.9860279441117764,0.992964824120603,346.24318838119507,0.7,nyc
+cms_earlystopping,naib-xtez.csv,a40_taking_property_without,medium,0.9915754426676083,0.0,0.0,0.0,34.29615569114685,0.7,nyc
+cms_minhash,naib-xtez.csv,a40_taking_property_without,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,2.5272369384765625e-05,0.7,nyc
+cms_minhash_lsh,naib-xtez.csv,a40_taking_property_without,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,0.025134801864624023,0.7,nyc
+cms,naib-xtez.csv,a59_using_weapon_other_than,medium,1.0,1.0,1.0,1.0,701.9778378009796,0.7,nyc
+cms_sampling,naib-xtez.csv,a59_using_weapon_other_than,medium,0.9998822916141182,1.0,0.9860279441117764,0.992964824120603,347.02284717559814,0.7,nyc
+cms_earlystopping,naib-xtez.csv,a59_using_weapon_other_than,medium,0.9915754426676083,0.0,0.0,0.0,34.73736929893494,0.7,nyc
+cms_minhash,naib-xtez.csv,a59_using_weapon_other_than,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,2.1219253540039062e-05,0.7,nyc
+cms_minhash_lsh,naib-xtez.csv,a59_using_weapon_other_than,medium,0.9999831845163026,1.0,0.998003992015968,0.9990009990009989,0.024178743362426758,0.7,nyc
+cms,9cvd-uyw6.csv,ELL PRINCIPAL,medium,1.0,1.0,1.0,1.0,696.8862011432648,0.7,nyc
+cms_sampling,9cvd-uyw6.csv,ELL PRINCIPAL,medium,0.9999663690326053,0.997979797979798,1.0,0.9989888776541962,342.3218343257904,0.7,nyc
+cms_earlystopping,9cvd-uyw6.csv,ELL PRINCIPAL,medium,0.9883300543140123,1.0,0.2975708502024291,0.4586583463338533,59.62095618247986,0.7,nyc
+cms_minhash,9cvd-uyw6.csv,ELL PRINCIPAL,medium,1.0,1.0,1.0,1.0,1.621246337890625e-05,0.7,nyc
+cms_minhash_lsh,9cvd-uyw6.csv,ELL PRINCIPAL,medium,1.0,1.0,1.0,1.0,0.022461414337158203,0.7,nyc
+cms,2ps2-dsjr.csv,_05_principal,medium,1.0,1.0,1.0,1.0,696.0955729484558,0.7,nyc
+cms_sampling,2ps2-dsjr.csv,_05_principal,medium,0.9999831845163026,1.0,0.99800796812749,0.9990029910269193,344.39850997924805,0.7,nyc
+cms_earlystopping,2ps2-dsjr.csv,_05_principal,medium,0.9941650271570062,1.0,0.30876494023904383,0.4718417047184171,64.86410975456238,0.7,nyc
+cms_minhash,2ps2-dsjr.csv,_05_principal,medium,0.9999831845163026,1.0,0.99800796812749,0.9990029910269193,1.7881393432617188e-05,0.7,nyc
+cms_minhash_lsh,2ps2-dsjr.csv,_05_principal,medium,0.9999831845163026,1.0,0.99800796812749,0.9990029910269193,0.02381443977355957,0.7,nyc
+cms,kg6x-kv5b.csv,10 REMOVALS,medium,1.0,1.0,1.0,1.0,697.4930853843689,0.7,nyc
+cms_sampling,kg6x-kv5b.csv,10 REMOVALS,medium,1.0,1.0,1.0,1.0,345.3054714202881,0.7,nyc
+cms_earlystopping,kg6x-kv5b.csv,10 REMOVALS,medium,0.9918108594393718,1.0,0.25306748466257667,0.40391676866585063,64.53417706489563,0.7,nyc
+cms_minhash,kg6x-kv5b.csv,10 REMOVALS,medium,0.9999831845163026,0.998468606431853,1.0,0.9992337164750957,1.9073486328125e-05,0.7,nyc
+cms_minhash_lsh,kg6x-kv5b.csv,10 REMOVALS,medium,0.9999831845163026,0.998468606431853,1.0,0.9992337164750957,0.023722171783447266,0.7,nyc
+cms,r5p4-2qap.csv,18 PRINCIPAL,medium,1.0,1.0,1.0,1.0,695.2664561271667,0.7,nyc
+cms_sampling,r5p4-2qap.csv,18 PRINCIPAL,medium,0.9998654761304209,0.9919028340080972,1.0,0.9959349593495934,343.07352018356323,0.7,nyc
+cms_earlystopping,r5p4-2qap.csv,18 PRINCIPAL,medium,0.9881955304444332,1.0,0.2836734693877551,0.4419713831478537,68.96116733551025,0.7,nyc
+cms_minhash,r5p4-2qap.csv,18 PRINCIPAL,medium,0.9998991070978157,1.0,0.9938775510204082,0.9969293756397134,2.1696090698242188e-05,0.7,nyc
+cms_minhash_lsh,r5p4-2qap.csv,18 PRINCIPAL,medium,0.9998991070978157,1.0,0.9938775510204082,0.9969293756397134,0.022433996200561523,0.7,nyc
+cms,ijzq-5wy8.csv,modes_used_june_bus,medium,1.0,1.0,1.0,1.0,695.2776980400085,0.7,nyc
+cms_sampling,ijzq-5wy8.csv,modes_used_june_bus,medium,0.9987556542063932,0.9653465346534653,0.9169278996865203,0.9405144694533761,344.8129017353058,0.7,nyc
+cms_earlystopping,ijzq-5wy8.csv,modes_used_june_bus,medium,1.0,1.0,1.0,1.0,84.92796802520752,0.7,nyc
+cms_minhash,ijzq-5wy8.csv,modes_used_june_bus,medium,0.9996636903260522,0.9936102236421726,0.9749216300940439,0.9841772151898734,2.1457672119140625e-05,0.7,nyc
+cms_minhash_lsh,ijzq-5wy8.csv,modes_used_june_bus,medium,0.9996636903260522,0.9936102236421726,0.9749216300940439,0.9841772151898734,0.04145336151123047,0.7,nyc
+cms,6bqn-qdwq.csv,tnc_mode,high,1.0,1.0,1.0,1.0,695.7931227684021,0.7,nyc
+cms_sampling,6bqn-qdwq.csv,tnc_mode,high,0.9999831845163026,0.6666666666666666,1.0,0.8,344.6875727176666,0.7,nyc
+cms_earlystopping,6bqn-qdwq.csv,tnc_mode,high,1.0,1.0,1.0,1.0,34.72878646850586,0.7,nyc
+cms_minhash,6bqn-qdwq.csv,tnc_mode,high,1.0,1.0,1.0,1.0,1.7404556274414062e-05,0.7,nyc
+cms_minhash_lsh,6bqn-qdwq.csv,tnc_mode,high,1.0,1.0,1.0,1.0,0.007709026336669922,0.7,nyc
+cms,4nft-bihw.csv,tax_year,high,1.0,1.0,1.0,1.0,696.1426932811737,0.7,nyc
+cms_sampling,4nft-bihw.csv,tax_year,high,0.9999495535489078,0.25,1.0,0.4,344.5155761241913,0.7,nyc
+cms_earlystopping,4nft-bihw.csv,tax_year,high,0.9999831845163026,0.0,0.0,0.0,34.25084733963013,0.7,nyc
+cms_minhash,4nft-bihw.csv,tax_year,high,1.0,1.0,1.0,1.0,1.6450881958007812e-05,0.7,nyc
+cms_minhash_lsh,4nft-bihw.csv,tax_year,high,1.0,1.0,1.0,1.0,0.00045943260192871094,0.7,nyc
+cms,iz2q-9x8d.csv,total_est_fee,high,1.0,1.0,1.0,1.0,698.6729292869568,0.7,nyc
+cms_sampling,iz2q-9x8d.csv,total_est_fee,high,1.0,1.0,1.0,1.0,342.74825263023376,0.7,nyc
+cms_earlystopping,iz2q-9x8d.csv,total_est_fee,high,1.0,1.0,1.0,1.0,34.60616397857666,0.7,nyc
+cms_minhash,iz2q-9x8d.csv,total_est_fee,high,1.0,1.0,1.0,1.0,2.193450927734375e-05,0.7,nyc
+cms_minhash_lsh,iz2q-9x8d.csv,total_est_fee,high,1.0,1.0,1.0,1.0,0.00024127960205078125,0.7,nyc
+cms,n84m-kx4j.csv,vehicle_engine_horsepower,high,1.0,1.0,1.0,1.0,696.0717520713806,0.7,nyc
+cms_sampling,n84m-kx4j.csv,vehicle_engine_horsepower,high,1.0,1.0,1.0,1.0,345.4034512042999,0.7,nyc
+cms_earlystopping,n84m-kx4j.csv,vehicle_engine_horsepower,high,1.0,1.0,1.0,1.0,35.3658447265625,0.7,nyc
+cms_minhash,n84m-kx4j.csv,vehicle_engine_horsepower,high,1.0,1.0,1.0,1.0,1.8596649169921875e-05,0.7,nyc
+cms_minhash_lsh,n84m-kx4j.csv,vehicle_engine_horsepower,high,1.0,1.0,1.0,1.0,0.000244140625,0.7,nyc
+cms,uu87-uz8m.csv,asc_contact_perp,high,1.0,1.0,1.0,1.0,698.7224957942963,0.7,nyc
+cms_sampling,uu87-uz8m.csv,asc_contact_perp,high,0.9999831845163026,0.9859154929577465,1.0,0.9929078014184397,345.9981415271759,0.7,nyc
+cms_earlystopping,uu87-uz8m.csv,asc_contact_perp,high,0.9988229161411828,0.0,0.0,0.0,34.3743212223053,0.7,nyc
+cms_minhash,uu87-uz8m.csv,asc_contact_perp,high,1.0,1.0,1.0,1.0,1.7404556274414062e-05,0.7,nyc
+cms_minhash_lsh,uu87-uz8m.csv,asc_contact_perp,high,1.0,1.0,1.0,1.0,0.0022306442260742188,0.7,nyc
+cms,ek6b-5n74.csv,description_of_code,high,1.0,1.0,1.0,1.0,699.8302752971649,0.7,nyc
+cms_sampling,ek6b-5n74.csv,description_of_code,high,1.0,1.0,1.0,1.0,343.74488496780396,0.7,nyc
+cms_earlystopping,ek6b-5n74.csv,description_of_code,high,1.0,1.0,1.0,1.0,35.87284731864929,0.7,nyc
+cms_minhash,ek6b-5n74.csv,description_of_code,high,1.0,1.0,1.0,1.0,2.2172927856445312e-05,0.7,nyc
+cms_minhash_lsh,ek6b-5n74.csv,description_of_code,high,1.0,1.0,1.0,1.0,0.0003941059112548828,0.7,nyc
+cms,g3xg-qtbc.csv,approx_date_closed,high,1.0,1.0,1.0,1.0,702.0169975757599,0.7,nyc
+cms_sampling,g3xg-qtbc.csv,approx_date_closed,high,1.0,1.0,1.0,1.0,345.58913946151733,0.7,nyc
+cms_earlystopping,g3xg-qtbc.csv,approx_date_closed,high,1.0,1.0,1.0,1.0,35.12519907951355,0.7,nyc
+cms_minhash,g3xg-qtbc.csv,approx_date_closed,high,1.0,1.0,1.0,1.0,2.09808349609375e-05,0.7,nyc
+cms_minhash_lsh,g3xg-qtbc.csv,approx_date_closed,high,1.0,1.0,1.0,1.0,0.00022172927856445312,0.7,nyc
+cms,fx4z-5xg2.csv,stop_question_frisk_complaint,high,1.0,1.0,1.0,1.0,700.2496073246002,0.7,nyc
+cms_sampling,fx4z-5xg2.csv,stop_question_frisk_complaint,high,1.0,1.0,1.0,1.0,347.1367254257202,0.7,nyc
+cms_earlystopping,fx4z-5xg2.csv,stop_question_frisk_complaint,high,0.9993610116194992,1.0,0.7076923076923077,0.8288288288288288,37.30316758155823,0.7,nyc
+cms_minhash,fx4z-5xg2.csv,stop_question_frisk_complaint,high,1.0,1.0,1.0,1.0,2.5033950805664062e-05,0.7,nyc
+cms_minhash_lsh,fx4z-5xg2.csv,stop_question_frisk_complaint,high,1.0,1.0,1.0,1.0,0.0040814876556396484,0.7,nyc
+cms,reri-chf8.csv,grade_12,high,1.0,1.0,1.0,1.0,693.5036408901215,0.7,nyc
+cms_sampling,reri-chf8.csv,grade_12,high,1.0,1.0,1.0,1.0,344.4814908504486,0.7,nyc
+cms_earlystopping,reri-chf8.csv,grade_12,high,1.0,1.0,1.0,1.0,52.67487549781799,0.7,nyc
+cms_minhash,reri-chf8.csv,grade_12,high,1.0,1.0,1.0,1.0,1.7404556274414062e-05,0.7,nyc
+cms_minhash_lsh,reri-chf8.csv,grade_12,high,1.0,1.0,1.0,1.0,0.0004286766052246094,0.7,nyc
+cms,4tys-3tzj.csv,multifamily_housing_number,low,1.0,1.0,1.0,1.0,697.9474611282349,0.7,nyc
+cms_sampling,4tys-3tzj.csv,multifamily_housing_number,low,0.9997141367771444,0.9852045256744996,1.0,0.9925471284524332,345.4277627468109,0.7,nyc
+cms_earlystopping,4tys-3tzj.csv,multifamily_housing_number,low,1.0,1.0,1.0,1.0,51.20413613319397,0.7,nyc
+cms_minhash,4tys-3tzj.csv,multifamily_housing_number,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,2.2411346435546875e-05,0.7,nyc
+cms_minhash_lsh,4tys-3tzj.csv,multifamily_housing_number,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,0.027796506881713867,0.7,nyc
+cms,wcm8-aq5w.csv,propane_use_kbtu,low,1.0,1.0,1.0,1.0,699.6903867721558,0.7,nyc
+cms_sampling,wcm8-aq5w.csv,propane_use_kbtu,low,0.9997645832282366,0.987783595113438,1.0,0.993854258121159,346.2272446155548,0.7,nyc
+cms_earlystopping,wcm8-aq5w.csv,propane_use_kbtu,low,1.0,1.0,1.0,1.0,51.18783521652222,0.7,nyc
+cms_minhash,wcm8-aq5w.csv,propane_use_kbtu,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,2.0742416381835938e-05,0.7,nyc
+cms_minhash_lsh,wcm8-aq5w.csv,propane_use_kbtu,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,0.027993202209472656,0.7,nyc
+cms,vc9v-wg6y.csv,ell_arabic,high,1.0,1.0,1.0,1.0,697.7106158733368,0.7,nyc
+cms_sampling,vc9v-wg6y.csv,ell_arabic,high,0.9999831845163026,1.0,0.9814814814814815,0.9906542056074767,344.8146629333496,0.7,nyc
+cms_earlystopping,vc9v-wg6y.csv,ell_arabic,high,0.9992769342010123,1.0,0.2037037037037037,0.3384615384615384,61.222861766815186,0.7,nyc
+cms_minhash,vc9v-wg6y.csv,ell_arabic,high,0.9999831845163026,1.0,0.9814814814814815,0.9906542056074767,1.621246337890625e-05,0.7,nyc
+cms_minhash_lsh,vc9v-wg6y.csv,ell_arabic,high,0.9999831845163026,1.0,0.9814814814814815,0.9906542056074767,0.002586841583251953,0.7,nyc
+cms,njjd-3gve.csv,q21_r4_c2,low,1.0,1.0,1.0,1.0,697.4948604106903,0.7,nyc
+cms_sampling,njjd-3gve.csv,q21_r4_c2,low,0.9995964283912627,0.9892739273927392,0.990909090909091,0.9900908340214699,345.7319483757019,0.7,nyc
+cms_earlystopping,njjd-3gve.csv,q21_r4_c2,low,1.0,1.0,1.0,1.0,70.25735712051392,0.7,nyc
+cms_minhash,njjd-3gve.csv,q21_r4_c2,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,2.002716064453125e-05,0.7,nyc
+cms_minhash_lsh,njjd-3gve.csv,q21_r4_c2,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,0.03789782524108887,0.7,nyc
+cms,x5tk-fa54.csv,year_5_estimate,high,1.0,1.0,1.0,1.0,706.0242486000061,0.7,nyc
+cms_sampling,x5tk-fa54.csv,year_5_estimate,high,0.9999495535489078,0.5,1.0,0.6666666666666666,347.8808603286743,0.7,nyc
+cms_earlystopping,x5tk-fa54.csv,year_5_estimate,high,1.0,1.0,1.0,1.0,73.27926325798035,0.7,nyc
+cms_minhash,x5tk-fa54.csv,year_5_estimate,high,1.0,1.0,1.0,1.0,1.5974044799804688e-05,0.7,nyc
+cms_minhash_lsh,x5tk-fa54.csv,year_5_estimate,high,1.0,1.0,1.0,1.0,0.020708322525024414,0.7,nyc
+cms,268n-a7em.csv,local,high,1.0,1.0,1.0,1.0,705.3786997795105,0.7,nyc
+cms_sampling,268n-a7em.csv,local,high,1.0,1.0,1.0,1.0,348.0107510089874,0.7,nyc
+cms_earlystopping,268n-a7em.csv,local,high,1.0,1.0,1.0,1.0,94.05896043777466,0.7,nyc
+cms_minhash,268n-a7em.csv,local,high,1.0,1.0,1.0,1.0,1.5735626220703125e-05,0.7,nyc
+cms_minhash_lsh,268n-a7em.csv,local,high,1.0,1.0,1.0,1.0,0.0005738735198974609,0.7,nyc
+cms,jpcp-ic7c.csv,qworktravelcode06,high,1.0,1.0,1.0,1.0,696.5380351543427,0.7,nyc
+cms_sampling,jpcp-ic7c.csv,qworktravelcode06,high,0.9995291664564732,0.5942028985507246,1.0,0.7454545454545455,345.05672311782837,0.7,nyc
+cms_earlystopping,jpcp-ic7c.csv,qworktravelcode06,high,0.9993105651684071,0.0,0.0,0.0,34.28368353843689,0.7,nyc
+cms_minhash,jpcp-ic7c.csv,qworktravelcode06,high,0.9999159225815131,0.8913043478260869,1.0,0.9425287356321839,1.6689300537109375e-05,0.7,nyc
+cms_minhash_lsh,jpcp-ic7c.csv,qworktravelcode06,high,0.9999159225815131,0.8913043478260869,1.0,0.9425287356321839,0.00869441032409668,0.7,nyc
+cms,naib-xtez.csv,a34_coercion_threats_p,medium,1.0,1.0,1.0,1.0,700.5957541465759,0.7,nyc
+cms_sampling,naib-xtez.csv,a34_coercion_threats_p,medium,0.9998991070978157,1.0,0.9880239520958084,0.9939759036144578,346.36371755599976,0.7,nyc
+cms_earlystopping,naib-xtez.csv,a34_coercion_threats_p,medium,0.9915754426676083,0.0,0.0,0.0,34.4101836681366,0.7,nyc
+cms_minhash,naib-xtez.csv,a34_coercion_threats_p,medium,1.0,1.0,1.0,1.0,1.5974044799804688e-05,0.7,nyc
+cms_minhash_lsh,naib-xtez.csv,a34_coercion_threats_p,medium,1.0,1.0,1.0,1.0,0.02396082878112793,0.7,nyc
+cms,yr5p-wjer.csv,worship_facility_gross_floor,low,1.0,1.0,1.0,1.0,695.4518442153931,0.7,nyc
+cms_sampling,yr5p-wjer.csv,worship_facility_gross_floor,low,0.9997309522608417,0.9860627177700348,1.0,0.9929824561403509,343.05874705314636,0.7,nyc
+cms_earlystopping,yr5p-wjer.csv,worship_facility_gross_floor,low,1.0,1.0,1.0,1.0,51.03471326828003,0.7,nyc
+cms_minhash,yr5p-wjer.csv,worship_facility_gross_floor,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,1.811981201171875e-05,0.7,nyc
+cms_minhash_lsh,yr5p-wjer.csv,worship_facility_gross_floor,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,0.028277873992919922,0.7,nyc
+cms,utpj-74fz.csv,retail_store_number_of_open,low,0.9999831845163026,0.9991289198606271,1.0,0.9995642701525055,694.674831867218,0.7,nyc
+cms_sampling,utpj-74fz.csv,retail_store_number_of_open,low,0.9997141367771444,0.9853951890034365,1.0,0.9926438771094764,343.76145672798157,0.7,nyc
+cms_earlystopping,utpj-74fz.csv,retail_store_number_of_open,low,0.9999831845163026,0.9991289198606271,1.0,0.9995642701525055,51.04122972488403,0.7,nyc
+cms_minhash,utpj-74fz.csv,retail_store_number_of_open,low,0.9998822916141182,1.0,0.993897122929381,0.9969392216878007,2.3126602172851562e-05,0.7,nyc
+cms_minhash_lsh,utpj-74fz.csv,retail_store_number_of_open,low,0.9998822916141182,1.0,0.993897122929381,0.9969392216878007,0.026937246322631836,0.7,nyc
+cms,utpj-74fz.csv,bank_branch_number_of,low,1.0,1.0,1.0,1.0,694.9041392803192,0.7,nyc
+cms_sampling,utpj-74fz.csv,bank_branch_number_of,low,0.9997477677445392,0.986922406277245,1.0,0.9934181658622203,343.95196437835693,0.7,nyc
+cms_earlystopping,utpj-74fz.csv,bank_branch_number_of,low,1.0,1.0,1.0,1.0,50.97654461860657,0.7,nyc
+cms_minhash,utpj-74fz.csv,bank_branch_number_of,low,0.9998654761304209,1.0,0.9929328621908127,0.9964539007092198,2.193450927734375e-05,0.7,nyc
+cms_minhash_lsh,utpj-74fz.csv,bank_branch_number_of,low,0.9998654761304209,1.0,0.9929328621908127,0.9964539007092198,0.028220176696777344,0.7,nyc
+cms,8nqg-ia7v.csv,flag_mc,high,1.0,1.0,1.0,1.0,694.672700881958,0.7,nyc
+cms_sampling,8nqg-ia7v.csv,flag_mc,high,0.9999663690326053,0.9230769230769231,1.0,0.9600000000000001,344.1433959007263,0.7,nyc
+cms_earlystopping,8nqg-ia7v.csv,flag_mc,high,1.0,1.0,1.0,1.0,52.25789451599121,0.7,nyc
+cms_minhash,8nqg-ia7v.csv,flag_mc,high,0.9999663690326053,0.9230769230769231,1.0,0.9600000000000001,1.811981201171875e-05,0.7,nyc
+cms_minhash_lsh,8nqg-ia7v.csv,flag_mc,high,0.9999663690326053,0.9230769230769231,1.0,0.9600000000000001,0.002871274948120117,0.7,nyc
+cms,nbun-wekj.csv,municipally_supplied_potable_1,low,0.9999831845163026,0.9991189427312775,1.0,0.999559277214632,695.7710003852844,0.7,nyc
+cms_sampling,nbun-wekj.csv,municipally_supplied_potable_1,low,0.9994955354890783,0.9742268041237113,1.0,0.9869451697127937,344.830281496048,0.7,nyc
+cms_earlystopping,nbun-wekj.csv,municipally_supplied_potable_1,low,0.9999831845163026,0.9991189427312775,1.0,0.999559277214632,51.05493664741516,0.7,nyc
+cms_minhash,nbun-wekj.csv,municipally_supplied_potable_1,low,0.9999495535489078,1.0,0.9973544973544973,0.9986754966887418,2.6702880859375e-05,0.7,nyc
+cms_minhash_lsh,nbun-wekj.csv,municipally_supplied_potable_1,low,0.9999495535489078,1.0,0.9973544973544973,0.9986754966887418,0.027667522430419922,0.7,nyc
+cms,yr5p-wjer.csv,stadium_closed_gross_floor,low,1.0,1.0,1.0,1.0,697.2080664634705,0.7,nyc
+cms_sampling,yr5p-wjer.csv,stadium_closed_gross_floor,low,0.9997645832282366,0.987783595113438,1.0,0.993854258121159,345.3519616127014,0.7,nyc
+cms_earlystopping,yr5p-wjer.csv,stadium_closed_gross_floor,low,1.0,1.0,1.0,1.0,51.11184334754944,0.7,nyc
+cms_minhash,yr5p-wjer.csv,stadium_closed_gross_floor,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,2.4318695068359375e-05,0.7,nyc
+cms_minhash_lsh,yr5p-wjer.csv,stadium_closed_gross_floor,low,0.9998991070978157,1.0,0.9946996466431095,0.9973427812223207,0.02800273895263672,0.7,nyc
+cms,m8p6-tp4b.csv,yrb_rng,low,1.0,1.0,1.0,1.0,692.4368510246277,0.7,nyc
+cms_sampling,m8p6-tp4b.csv,yrb_rng,low,0.9995459819401705,0.9868312757201646,0.990909090909091,0.9888659793814433,343.0874102115631,0.7,nyc
+cms_earlystopping,m8p6-tp4b.csv,yrb_rng,low,1.0,1.0,1.0,1.0,69.91779255867004,0.7,nyc
+cms_minhash,m8p6-tp4b.csv,yrb_rng,low,0.9997813987119339,0.9909762100082035,0.9983471074380166,0.9946480032935364,2.2172927856445312e-05,0.7,nyc
+cms_minhash_lsh,m8p6-tp4b.csv,yrb_rng,low,0.9997813987119339,0.9909762100082035,0.9983471074380166,0.9946480032935364,0.0368342399597168,0.7,nyc
+cms,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,1.0,1.0,1.0,1.0,695.9466540813446,0.7,nyc
+cms_sampling,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,0.9995964283912627,0.9892739273927392,0.990909090909091,0.9900908340214699,345.2680461406708,0.7,nyc
+cms_earlystopping,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,1.0,1.0,1.0,1.0,70.02782583236694,0.7,nyc
+cms_minhash,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,1.8835067749023438e-05,0.7,nyc
+cms_minhash_lsh,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,0.03672909736633301,0.7,nyc
+cms,utpj-74fz.csv,percent_of_electricity_that,low,1.0,1.0,1.0,1.0,696.1773347854614,0.7,nyc
+cms_sampling,utpj-74fz.csv,percent_of_electricity_that,low,0.9995964283912627,0.9892739273927392,0.990909090909091,0.9900908340214699,344.4956691265106,0.7,nyc
+cms_earlystopping,utpj-74fz.csv,percent_of_electricity_that,low,1.0,1.0,1.0,1.0,70.25718283653259,0.7,nyc
+cms_minhash,utpj-74fz.csv,percent_of_electricity_that,low,0.9997645832282366,0.9925864909390445,0.9958677685950413,0.9942244224422443,2.0503997802734375e-05,0.7,nyc
+cms_minhash_lsh,utpj-74fz.csv,percent_of_electricity_that,low,0.9997645832282366,0.9925864909390445,0.9958677685950413,0.9942244224422443,0.03638148307800293,0.7,nyc
+cms,wcm8-aq5w.csv,percent_of_electricity_that,low,1.0,1.0,1.0,1.0,697.9256267547607,0.7,nyc
+cms_sampling,wcm8-aq5w.csv,percent_of_electricity_that,low,0.9995964283912627,0.9844771241830066,0.9958677685950413,0.990139687756779,346.0367531776428,0.7,nyc
+cms_earlystopping,wcm8-aq5w.csv,percent_of_electricity_that,low,1.0,1.0,1.0,1.0,70.36964273452759,0.7,nyc
+cms_minhash,wcm8-aq5w.csv,percent_of_electricity_that,low,0.9997309522608417,0.9885433715220949,0.9983471074380166,0.993421052631579,1.9311904907226562e-05,0.7,nyc
+cms_minhash_lsh,wcm8-aq5w.csv,percent_of_electricity_that,low,0.9997309522608417,0.9885433715220949,0.9983471074380166,0.993421052631579,0.03659987449645996,0.7,nyc
+cms,njjd-3gve.csv,q20_r7_c4,low,1.0,1.0,1.0,1.0,698.5614006519318,0.7,nyc
+cms_sampling,njjd-3gve.csv,q20_r7_c4,low,0.9995964283912627,0.9892739273927392,0.990909090909091,0.9900908340214699,346.06571888923645,0.7,nyc
+cms_earlystopping,njjd-3gve.csv,q20_r7_c4,low,1.0,1.0,1.0,1.0,70.32837247848511,0.7,nyc
+cms_minhash,njjd-3gve.csv,q20_r7_c4,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,1.8358230590820312e-05,0.7,nyc
+cms_minhash_lsh,njjd-3gve.csv,q20_r7_c4,low,0.9998150296793287,0.9934156378600824,0.9975206611570248,0.9954639175257732,0.036389827728271484,0.7,nyc
+cms,f33j-ecpr.csv,q21_r1_c2,low,1.0,1.0,1.0,1.0,696.5955278873444,0.7,nyc
+cms_sampling,f33j-ecpr.csv,q21_r1_c2,low,0.9995627974238679,0.989067055393586,0.9919590643274854,0.9905109489051095,344.99683117866516,0.7,nyc
+cms_earlystopping,f33j-ecpr.csv,q21_r1_c2,low,1.0,1.0,1.0,1.0,72.98837232589722,0.7,nyc
+cms_minhash,f33j-ecpr.csv,q21_r1_c2,low,0.9994282735542888,0.9764285714285714,0.9992690058479532,0.9877167630057804,2.0503997802734375e-05,0.7,nyc
+cms_minhash_lsh,f33j-ecpr.csv,q21_r1_c2,low,0.9994282735542888,0.9764285714285714,0.9992690058479532,0.9877167630057804,0.042235612869262695,0.7,nyc
+cms,wa2y-rh4b.csv,noncity_yr1_plan,low,0.9999831845163026,0.9991742361684558,1.0,0.9995869475423378,700.2787704467773,0.7,nyc
+cms_sampling,wa2y-rh4b.csv,noncity_yr1_plan,low,0.9994955354890783,0.9781199351701783,0.9975206611570248,0.9877250409165302,347.50870013237,0.7,nyc
+cms_earlystopping,wa2y-rh4b.csv,noncity_yr1_plan,low,0.9999831845163026,0.9991742361684558,1.0,0.9995869475423378,70.9276511669159,0.7,nyc
+cms_minhash,wa2y-rh4b.csv,noncity_yr1_plan,low,0.999697321293447,0.9877250409165302,0.9975206611570248,0.9925986842105263,1.8596649169921875e-05,0.7,nyc
+cms_minhash_lsh,wa2y-rh4b.csv,noncity_yr1_plan,low,0.999697321293447,0.9877250409165302,0.9975206611570248,0.9925986842105263,0.03511810302734375,0.7,nyc
