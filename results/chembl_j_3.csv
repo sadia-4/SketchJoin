@@ -1,4 +1,4 @@
-method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,time dataset,threshold,dataset name
+method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,threshold,dataset name
 cms,usan_stems.csv,stem,high,1.0,1.0,1.0,1.0,6.676280975341797,0.7,chembl
 cms_sampling,usan_stems.csv,stem,high,1.0,1.0,1.0,1.0,3.309861660003662,0.7,chembl
 cms_earlystopping,usan_stems.csv,stem,high,1.0,1.0,1.0,1.0,0.8293957710266113,0.7,chembl

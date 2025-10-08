@@ -1,4 +1,4 @@
-method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,time dataset,threshold,dataset name
+method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,threshold,dataset name
 cms,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,1.0,1.0,1.0,1.0,688.4611132144928,0.7,nyc
 cms_sampling,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9998991070978157,0.9938524590163934,1.0,0.9969167523124358,341.12245893478394,0.7,nyc
 cms_earlystopping,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.9837562427483226,1.0,0.004123711340206186,0.008213552361396304,34.83893442153931,0.7,nyc

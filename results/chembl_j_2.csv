@@ -1,4 +1,4 @@
-method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,time dataset,threshold,dataset name
+method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,threshold,dataset name
 cms,hrac_classification.csv,level2_description,high,1.0,1.0,1.0,1.0,6.622122287750244,0.7,chembl
 cms_sampling,hrac_classification.csv,level2_description,high,1.0,1.0,1.0,1.0,3.2810704708099365,0.7,chembl
 cms_earlystopping,hrac_classification.csv,level2_description,high,1.0,1.0,1.0,1.0,0.36251354217529297,0.7,chembl

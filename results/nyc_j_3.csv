@@ -1,4 +1,4 @@
-method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,time dataset,threshold,dataset name
+method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,threshold,dataset name
 cms,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,692.5801193714142,0.7,nyc
 cms_sampling,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,1.0,1.0,1.0,1.0,343.417111158371,0.7,nyc
 cms_earlystopping,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,0.9890363046293027,0.0,0.0,0.0,34.15992569923401,0.7,nyc
