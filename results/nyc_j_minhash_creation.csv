@@ -1,0 +1,46 @@
+query file,query column, query selectivity, minhash creation time
+kcey-vehy.csv,qsurveyzone_home,high,0.40923571586608887
+naib-xtez.csv,a40_taking_property_without,medium,0.40842771530151367
+9cvd-uyw6.csv,ELL PRINCIPAL,medium,0.5415771007537842
+g3xg-qtbc.csv,approx_date_closed,high,0.35779333114624023
+t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,0.54789137840271
+64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.5545072555541992
+disc.csv,A52 Group Violence S,medium,1.0925040245056152
+vc9v-wg6y.csv,ell_arabic,high,0.5855057239532471
+uu87-uz8m.csv,asc_contact_perp,high,0.5363507270812988
+reri-chf8.csv,grade_12,high,0.6187567710876465
+268n-a7em.csv,local,high,0.7965667247772217
+2ps2-dsjr.csv,_05_principal,medium,0.8272151947021484
+naib-xtez.csv,a59_using_weapon_other_than,medium,0.9063889980316162
+r5p4-2qap.csv,18 PRINCIPAL,medium,0.980963945388794
+disc.csv,A29 Gang Related Behavior R,medium,1.105644941329956
+x5tk-fa54.csv,year_5_estimate,high,0.9505021572113037
+ijzq-5wy8.csv,modes_used_june_bus,medium,0.9250185489654541
+iz2q-9x8d.csv,total_est_fee,high,0.8926808834075928
+disc.csv,A37 Intimidating and Bullying Behavior  S,medium,1.1320157051086426
+fx4z-5xg2.csv,stop_question_frisk_complaint,high,0.92030930519104
+45nu-yrf2.csv,6 EXPULSIONS,medium,0.9676153659820557
+i6ky-n2wd.csv,_2_superintendent,medium,0.9186985492706299
+6bqn-qdwq.csv,tnc_mode,high,0.9197824001312256
+kg6x-kv5b.csv,10 REMOVALS,medium,1.129455804824829
+ek6b-5n74.csv,description_of_code,high,0.8815863132476807
+yr5p-wjer.csv,worship_facility_gross_floor,low,0.39764833450317383
+wa2y-rh4b.csv,noncity_yr1_plan,low,0.395160436630249
+m8p6-tp4b.csv,yrb_rng,low,0.4152028560638428
+nbun-wekj.csv,municipally_supplied_potable_1,low,0.4065406322479248
+f33j-ecpr.csv,q21_r1_c2,low,0.3918907642364502
+wcm8-aq5w.csv,percent_of_electricity_that,low,0.4148523807525635
+utpj-74fz.csv,retail_store_number_of_open,low,0.4118509292602539
+njjd-3gve.csv,q21_r4_c2,low,0.4085979461669922
+njjd-3gve.csv,q20_r7_c4,low,0.40038084983825684
+6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,0.4140913486480713
+yr5p-wjer.csv,stadium_closed_gross_floor,low,0.4062173366546631
+utpj-74fz.csv,percent_of_electricity_that,low,0.8619847297668457
+jpcp-ic7c.csv,qworktravelcode06,high,0.7368283271789551
+8nqg-ia7v.csv,flag_mc,high,0.6700830459594727
+4tys-3tzj.csv,multifamily_housing_number,low,0.8546984195709229
+naib-xtez.csv,a34_coercion_threats_p,medium,0.9274783134460449
+n84m-kx4j.csv,vehicle_engine_horsepower,high,0.8406434059143066
+4nft-bihw.csv,tax_year,high,0.8972885608673096
+wcm8-aq5w.csv,propane_use_kbtu,low,0.9122846126556396
+utpj-74fz.csv,bank_branch_number_of,low,0.8778157234191895
