@@ -1,0 +1,46 @@
+method,query file,	query column,query selectivity,TP,FP,FN,TN,precision,recall,f1 score,accuracy
+aurum,naib-xtez.csv,a40_taking_property_without,medium,490,1,11,58967,0.9979633401,0.9780439122,0.9879032258,0.9997982142
+aurum,6bqn-qdwq.csv,tnc_mode,high,2,0,0,59467,1,1,1,1
+aurum,disc.csv,A29 Gang Related Behavior R,medium,649,0,3,58817,1,0.995398773,0.9976940815,0.9999495535
+aurum,wcm8-aq5w.csv,propane_use_kbtu,low,1125,1,7,58336,0.9991119005,0.9938162544,0.9964570416,0.9998654761
+aurum,yr5p-wjer.csv,worship_facility_gross_floor,low,1124,1,8,58336,0.9991111111,0.9929328622,0.9960124058,0.9998486606
+aurum,9cvd-uyw6.csv,ELL PRINCIPAL,medium,755,0,233,58481,1,0.7641700405,0.8663224326,0.9960819923
+aurum,ek6b-5n74.csv,description_of_code,high,6,0,2,59461,1,0.75,0.8571428571,0.999966369
+aurum,m8p6-tp4b.csv,yrb_rng,low,1186,7,24,58252,0.9941324392,0.9801652893,0.987099459,0.99947872
+aurum,iz2q-9x8d.csv,total_est_fee,high,1,0,0,59468,1,1,1,1
+aurum,nbun-wekj.csv,municipally_supplied_potable_1,low,1115,0,19,58335,1,0.9832451499,0.9915518008,0.9996805058
+aurum,45nu-yrf2.csv,6 EXPULSIONS,medium,649,0,3,58817,1,0.995398773,0.9976940815,0.9999495535
+aurum,njjd-3gve.csv,q20_r7_c4,low,1186,7,24,58252,0.9941324392,0.9801652893,0.987099459,0.99947872
+aurum,n84m-kx4j.csv,vehicle_engine_horsepower,high,1,0,0,59468,1,1,1,1
+aurum,naib-xtez.csv,a59_using_weapon_other_than,medium,490,1,11,58967,0.9979633401,0.9780439122,0.9879032258,0.9997982142
+aurum,yr5p-wjer.csv,stadium_closed_gross_floor,low,1125,1,7,58336,0.9991119005,0.9938162544,0.9964570416,0.9998654761
+aurum,i6ky-n2wd.csv,_2_superintendent,medium,490,1,11,58967,0.9979633401,0.9780439122,0.9879032258,0.9997982142
+aurum,kg6x-kv5b.csv,10 REMOVALS,medium,652,0,0,58817,1,1,1,1
+aurum,kcey-vehy.csv,qsurveyzone_home,high,3,0,0,59466,1,1,1,1
+aurum,uu87-uz8m.csv,asc_contact_perp,high,70,0,0,59399,1,1,1,1
+aurum,utpj-74fz.csv,bank_branch_number_of,low,1125,1,7,58336,0.9991119005,0.9938162544,0.9964570416,0.9998654761
+aurum,naib-xtez.csv,a34_coercion_threats_p,medium,490,1,11,58967,0.9979633401,0.9780439122,0.9879032258,0.9997982142
+aurum,6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,1186,7,24,58252,0.9941324392,0.9801652893,0.987099459,0.99947872
+aurum,4nft-bihw.csv,tax_year,high,1,0,0,59468,1,1,1,1
+aurum,ijzq-5wy8.csv,modes_used_june_bus,medium,467,0,171,58831,1,0.7319749216,0.8452488688,0.9971245523
+aurum,8nqg-ia7v.csv,flag_mc,high,21,0,3,59445,1,0.875,0.9333333333,0.9999495535
+aurum,disc.csv,A52 Group Violence S,medium,649,0,3,58817,1,0.995398773,0.9976940815,0.9999495535
+aurum,x5tk-fa54.csv,year_5_estimate,high,3,0,0,59466,1,1,1,1
+aurum,reri-chf8.csv,grade_12,high,1,0,0,59468,1,1,1,1
+aurum,njjd-3gve.csv,q21_r4_c2,low,1186,7,24,58252,0.9941324392,0.9801652893,0.987099459,0.99947872
+aurum,f33j-ecpr.csv,q21_r1_c2,low,1307,2,61,58099,0.9984721161,0.9554093567,0.9764661935,0.9989406245
+aurum,utpj-74fz.csv,retail_store_number_of_open,low,1127,2,20,58320,0.9982285208,0.9825632084,0.9903339192,0.9996300594
+aurum,vc9v-wg6y.csv,ell_arabic,high,52,0,2,59415,1,0.962962963,0.9811320755,0.999966369
+aurum,wcm8-aq5w.csv,percent_of_electricity_that,low,1172,3,38,58256,0.9974468085,0.9685950413,0.9828092243,0.9993105652
+aurum,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,730,0,240,58499,1,0.7525773196,0.8588235294,0.9959642839
+aurum,wa2y-rh4b.csv,noncity_yr1_plan,low,1184,2,26,58257,0.9983136594,0.9785123967,0.9883138564,0.9995291665
+aurum,g3xg-qtbc.csv,approx_date_closed,high,1,0,0,59468,1,1,1,1
+aurum,t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,649,0,3,58817,1,0.995398773,0.9976940815,0.9999495535
+aurum,fx4z-5xg2.csv,stop_question_frisk_complaint,high,128,0,2,59339,1,0.9846153846,0.992248062,0.999966369
+aurum,r5p4-2qap.csv,18 PRINCIPAL,medium,736,0,244,58489,1,0.7510204082,0.8578088578,0.995897022
+aurum,2ps2-dsjr.csv,_05_principal,medium,491,0,11,58967,1,0.9780876494,0.9889224572,0.9998150297
+aurum,utpj-74fz.csv,percent_of_electricity_that,low,1170,1,40,58258,0.999146029,0.9669421488,0.9827803444,0.9993105652
+aurum,268n-a7em.csv,local,high,1,0,0,59468,1,1,1,1
+aurum,jpcp-ic7c.csv,qworktravelcode06,high,36,1,5,59427,0.972972973,0.8780487805,0.9230769231,0.9998991071
+aurum,disc.csv,A37 Intimidating and Bullying Behavior  S,medium,649,0,3,58817,1,0.995398773,0.9976940815,0.9999495535
+aurum,4tys-3tzj.csv,multifamily_housing_number,low,1125,1,7,58336,0.9991119005,0.9938162544,0.9964570416,0.9998654761
