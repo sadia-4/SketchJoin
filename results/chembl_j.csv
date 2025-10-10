@@ -1,3 +1,4 @@
+method,query file,query column,query selectivity,accuracy,precision,recall,f1 score,time,threshold,dataset name
 cms,research_companies.csv,res_stem_id,medium,1.0,1.0,1.0,1.0,6.436452865600586,1535.8539950847626,0.7,chembl
 cms_sampling,research_companies.csv,res_stem_id,medium,1.0,1.0,1.0,1.0,3.1819331645965576,1535.8539950847626,0.7,chembl
 cms_earlystopping,research_companies.csv,res_stem_id,medium,1.0,1.0,1.0,1.0,1.384721040725708,1535.8539950847626,0.7,chembl
