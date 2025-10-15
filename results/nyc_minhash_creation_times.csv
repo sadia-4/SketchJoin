@@ -1,0 +1,46 @@
+query file,query column,query selectivity,minhash creation time,number of elements
+268n-a7em.csv,local,high,0.449842532,604
+4nft-bihw.csv,tax_year,high,0.575100501,1000
+6bqn-qdwq.csv,tnc_mode,high,0.526842992,1000
+8nqg-ia7v.csv,flag_mc,high,0.331110319,492
+ek6b-5n74.csv,description_of_code,high,0.494396845,1000
+fx4z-5xg2.csv,stop_question_frisk_complaint,high,0.491782665,1000
+g3xg-qtbc.csv,approx_date_closed,high,0.534700632,1000
+iz2q-9x8d.csv,total_est_fee,high,0.57276996,1000
+jpcp-ic7c.csv,qworktravelcode06,high,0.397231976,1000
+kcey-vehy.csv,qsurveyzone_home,high,0.634159009,1000
+n84m-kx4j.csv,vehicle_engine_horsepower,high,0.483520905,1000
+reri-chf8.csv,grade_12,high,0.332778931,192
+uu87-uz8m.csv,asc_contact_perp,high,0.324978669,3
+vc9v-wg6y.csv,ell_arabic,high,0.525773287,1000
+x5tk-fa54.csv,year_5_estimate,high,0.608950377,1000
+4tys-3tzj.csv,multifamily_housing_number,low,0.44045647,1000
+6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,low,0.557405233,1000
+f33j-ecpr.csv,q21_r1_c2,low,0.434625467,1000
+m8p6-tp4b.csv,yrb_rng,low,0.424998124,1000
+nbun-wekj.csv,municipally_supplied_potable_1,low,0.527946393,1000
+njjd-3gve.csv,q21_r4_c2,low,0.450129906,1000
+njjd-3gve.csv,q20_r7_c4,low,0.429312785,1000
+utpj-74fz.csv,retail_store_number_of_open,low,0.441651821,1000
+utpj-74fz.csv,bank_branch_number_of,low,0.431732972,1000
+utpj-74fz.csv,percent_of_electricity_that,low,0.466434081,1000
+wa2y-rh4b.csv,noncity_yr1_plan,low,0.511075338,1000
+wcm8-aq5w.csv,propane_use_kbtu,low,0.516542753,1000
+wcm8-aq5w.csv,percent_of_electricity_that,low,0.424873908,1000
+yr5p-wjer.csv,stadium_closed_gross_floor,low,0.423420588,1000
+yr5p-wjer.csv,worship_facility_gross_floor,low,0.529134115,1000
+2ps2-dsjr.csv,_05_principal,medium,0.702137947,1000
+45nu-yrf2.csv,6 EXPULSIONS,medium,0.869401614,1665
+64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,0.869267861,1743
+9cvd-uyw6.csv,ELL PRINCIPAL,medium,0.857246161,1743
+disc.csv,A29 Gang Related Behavior R,medium,0.822499832,1665
+disc.csv,A37 Intimidating and Bullying Behavior  S,medium,0.841208696,1665
+disc.csv,A52 Group Violence S,medium,0.84596316,1665
+i6ky-n2wd.csv,_2_superintendent,medium,0.676227172,1000
+ijzq-5wy8.csv,modes_used_june_bus,medium,0.664845785,959
+kg6x-kv5b.csv,10 REMOVALS,medium,0.850984891,1665
+naib-xtez.csv,a59_using_weapon_other_than,medium,0.66366148,1000
+naib-xtez.csv,a40_taking_property_without,medium,0.658402363,1000
+naib-xtez.csv,a34_coercion_threats_p,medium,0.540380796,1000
+r5p4-2qap.csv,18 PRINCIPAL,medium,0.877712011,1743
+t5qg-w9sq.csv,B31 Scholastic Dishonesty R,medium,0.851067225,1665
