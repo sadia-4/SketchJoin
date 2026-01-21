@@ -1,46 +1,45 @@
-query_column,time_ns
-metabolism.csv_met_id,127461
-molecule_dictionary.csv_usan_stem,112421
-atc_classification.csv_level5,113628
-products.csv_product_id,118063
-research_companies.csv_res_stem_id,114626
-activity_supp.csv_standard_text_value,114362
-variant_sequences.csv_variant_id,114172
-activities.csv_text_value,113482
-products.csv_topical,118539
-biotherapeutic_components.csv_component_id,167202
-activity_supp.csv_text_value,116627
-hrac_classification.csv_hrac_code,115011
-molecule_irac_classification.csv_irac_class_id,152823
-products.csv_parenteral,114090
-molecule_atc_classification.csv_level5,153004
-go_classification.csv_class_level,113687
-irac_classification.csv_active_ingredient,132334
-bio_component_sequences.csv_sequence,162492
-metabolism.csv_enzyme_name,133925
-go_classification.csv_path,122933
-chembl_release.csv_chembl_release_id,122058
-chembl_release.csv_creation_date,123159
-molecule_frac_classification.csv_molregno,187593
-molecule_dictionary.csv_first_approval,113436
-products.csv_route,112854
-products.csv_innovator_company,117968
-relationship_type.csv_relationship_type,138704
-protein_class_synonyms.csv_protein_class_id,171205
-organism_class.csv_l2,115546
-biotherapeutics.csv_helm_notation,113928
-target_components.csv_homologue,131730
-hrac_classification.csv_hrac_class_id,115399
-molecule_irac_classification.csv_mol_irac_id,163883
-product_patents.csv_drug_substance_flag,115070
-irac_classification.csv_irac_class_id,130213
-assays.csv_assay_group,112821
-research_stem.csv_res_stem_id,135002
-research_companies.csv_co_stem_id,133083
-product_patents.csv_delist_flag,115172
-molecule_frac_classification.csv_mol_frac_id,156508
-drug_mechanism.csv_molecular_mechanism,125097
-activity_stds_lookup.csv_std_act_id,161795
-molecule_hrac_classification.csv_mol_hrac_id,155671
-assay_classification.csv_assay_class_id,158724
-drug_mechanism.csv_direct_interaction,111427
+ijzq-5wy8.csv_modes_used_june_bus,12227235
+r5p4-2qap.csv_18 PRINCIPAL,12086413
+naib-xtez.csv_a59_using_weapon_other_than,16496801
+disc.csv_A37 Intimidating and Bullying Behavior  S,12088316
+2ps2-dsjr.csv__05_principal,12482711
+disc.csv_A29 Gang Related Behavior R,16437052
+45nu-yrf2.csv_6 EXPULSIONS,12300654
+kg6x-kv5b.csv_10 REMOVALS,12264060
+i6ky-n2wd.csv__2_superintendent,12412730
+9cvd-uyw6.csv_ELL PRINCIPAL,12103323
+disc.csv_A52 Group Violence S,12247038
+naib-xtez.csv_a40_taking_property_without,16631493
+t5qg-w9sq.csv_B31 Scholastic Dishonesty R,16779600
+64pu-zyr2.csv_A36 Intimidating and Bullying Behavior R,12177042
+naib-xtez.csv_a34_coercion_threats_p,12125469
+kcey-vehy.csv_qsurveyzone_home,12210298
+g3xg-qtbc.csv_approx_date_closed,11998820
+fx4z-5xg2.csv_stop_question_frisk_complaint,17139507
+vc9v-wg6y.csv_ell_arabic,12281305
+8nqg-ia7v.csv_flag_mc,13467404
+iz2q-9x8d.csv_total_est_fee,12016270
+jpcp-ic7c.csv_qworktravelcode06,11791179
+x5tk-fa54.csv_year_5_estimate,12132257
+uu87-uz8m.csv_asc_contact_perp,11999701
+268n-a7em.csv_local,12171883
+reri-chf8.csv_grade_12,11966833
+ek6b-5n74.csv_description_of_code,11893533
+4nft-bihw.csv_tax_year,12200504
+n84m-kx4j.csv_vehicle_engine_horsepower,16710830
+wcm8-aq5w.csv_propane_use_kbtu,16625113
+4tys-3tzj.csv_multifamily_housing_number,12212098
+njjd-3gve.csv_q21_r4_c2,12178974
+utpj-74fz.csv_retail_store_number_of_open,16634032
+m8p6-tp4b.csv_yrb_rng,12171425
+utpj-74fz.csv_percent_of_electricity_that,16842434
+f33j-ecpr.csv_q21_r1_c2,12176475
+nbun-wekj.csv_municipally_supplied_potable_1,16585355
+yr5p-wjer.csv_stadium_closed_gross_floor,16635978
+yr5p-wjer.csv_worship_facility_gross_floor,16565945
+njjd-3gve.csv_q20_r7_c4,12095093
+wa2y-rh4b.csv_noncity_yr1_plan,12110168
+wcm8-aq5w.csv_percent_of_electricity_that,12386784
+6e44-8i2s.csv_larceny_or_other_theft_with_weapon_s,16441304
+utpj-74fz.csv_bank_branch_number_of,12351247
+6bqn-qdwq.csv_tnc_mode,12995405
