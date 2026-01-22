@@ -44,3 +44,4 @@ activity_stds_lookup.csv,std_act_id,8542841.0
 molecule_hrac_classification.csv,mol_hrac_id,6542131.0
 assay_classification.csv,assay_class_id,5171919.0
 drug_mechanism.csv,direct_interaction,2.190949E7
+Total :lazo index creation time7.41580182263E11 ns
