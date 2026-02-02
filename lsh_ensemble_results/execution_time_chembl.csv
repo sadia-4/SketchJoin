@@ -44,3 +44,5 @@ activity_stds_lookup.csv,std_act_id,341984747.00,6
 molecule_hrac_classification.csv,mol_hrac_id,354937993.00,6
 assay_classification.csv,assay_class_id,395812702.00,4
 drug_mechanism.csv,direct_interaction,409109.00,3
+
+lsh ensemble chembl index creation_time= 476369809455ns,,
