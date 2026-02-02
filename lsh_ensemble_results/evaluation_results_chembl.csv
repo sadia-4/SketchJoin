@@ -1,4 +1,4 @@
-query_id,file_name,column_name,tmh_matches,ground_truth,TP,FP,FN,TN,precision,recall,f1_score,accuracy
+query_id,file_name,column_name,lsh_matches,ground_truth,TP,FP,FN,TN,precision,recall,f1_score,accuracy
 1,metabolism.csv,met_id,2,2,1,1,1,542,0.5,0.5,0.5,0.9963302752293578
 2,molecule_dictionary.csv,usan_stem,1,2,1,0,1,543,1.0,0.5,0.6666666666666666,0.998165137614679
 3,atc_classification.csv,level5,2,2,2,0,0,543,1.0,1.0,1.0,1.0
@@ -44,3 +44,4 @@ query_id,file_name,column_name,tmh_matches,ground_truth,TP,FP,FN,TN,precision,re
 43,molecule_hrac_classification.csv,mol_hrac_id,6,6,5,1,1,538,0.8333333333333334,0.8333333333333334,0.8333333333333334,0.9963302752293578
 44,assay_classification.csv,assay_class_id,4,4,4,0,0,541,1.0,1.0,1.0,1.0
 45,drug_mechanism.csv,direct_interaction,3,3,3,0,0,542,1.0,1.0,1.0,1.0
+
