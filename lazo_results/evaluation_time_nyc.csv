@@ -1,47 +1,46 @@
 query_file,query_column,time_ns
-ijzq-5wy8.csv,modes_used_june_bus,7.3702135E7
-r5p4-2qap.csv,18 PRINCIPAL,2.1251173E7
-naib-xtez.csv,a59_using_weapon_other_than,1.909486E7
-disc.csv,A37 Intimidating and Bullying Behavior  S,2.4659123E7
-2ps2-dsjr.csv,_05_principal,1.4447104E7
-disc.csv,A29 Gang Related Behavior R,2.4481501E7
-45nu-yrf2.csv,6 EXPULSIONS,2.7447485E7
-kg6x-kv5b.csv,10 REMOVALS,3.0334761E7
-i6ky-n2wd.csv,_2_superintendent,1.9773958E7
-9cvd-uyw6.csv,ELL PRINCIPAL,1.8104428E7
-disc.csv,A52 Group Violence S,2.5454187E7
-naib-xtez.csv,a40_taking_property_without,1.8578832E7
-t5qg-w9sq.csv,B31 Scholastic Dishonesty R,2.4254514E7
-64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,1.01035004E8
-naib-xtez.csv,a34_coercion_threats_p,1.8430567E7
-kcey-vehy.csv,qsurveyzone_home,7922960.0
-g3xg-qtbc.csv,approx_date_closed,4509944.0
-fx4z-5xg2.csv,stop_question_frisk_complaint,4806074.0
-vc9v-wg6y.csv,ell_arabic,9944369.0
-8nqg-ia7v.csv,flag_mc,1.0346149E7
-iz2q-9x8d.csv,total_est_fee,5488908.0
-jpcp-ic7c.csv,qworktravelcode06,1.3765384E7
-x5tk-fa54.csv,year_5_estimate,2.3790387E7
-uu87-uz8m.csv,asc_contact_perp,3722060.0
-268n-a7em.csv,local,1.2769705E7
-reri-chf8.csv,grade_12,1.3102339E7
-6bqn-qdwq.csv,tnc_mode,1.2265547E7
-ek6b-5n74.csv,description_of_code,3425008.0
-4nft-bihw.csv,tax_year,3448555.0
-n84m-kx4j.csv,vehicle_engine_horsepower,5033069.0
-wcm8-aq5w.csv,propane_use_kbtu,2.4173303E7
-4tys-3tzj.csv,multifamily_housing_number,2.412893E7
-njjd-3gve.csv,q21_r4_c2,4.1062176E7
-utpj-74fz.csv,retail_store_number_of_open,3.0120946E7
-m8p6-tp4b.csv,yrb_rng,3.5806044E7
-utpj-74fz.csv,percent_of_electricity_that,4.2510865E7
-f33j-ecpr.csv,q21_r1_c2,4.9700429E7
-nbun-wekj.csv,municipally_supplied_potable_1,2.4952483E7
-yr5p-wjer.csv,stadium_closed_gross_floor,2.5064966E7
-yr5p-wjer.csv,worship_facility_gross_floor,2.5132579E7
-njjd-3gve.csv,q20_r7_c4,4.0665602E7
-wa2y-rh4b.csv,noncity_yr1_plan,3.0028187E7
-wcm8-aq5w.csv,percent_of_electricity_that,4.124918E7
-6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,3.2394264E7
-utpj-74fz.csv,bank_branch_number_of,2.4533313E7
-Lazo index creation nyc time2.882978141085E12,,
+ijzq-5wy8.csv,modes_used_june_bus,5.1943251E7
+r5p4-2qap.csv,18 PRINCIPAL,1.2531528E7
+naib-xtez.csv,a59_using_weapon_other_than,1.0317234E7
+disc.csv,A37 Intimidating and Bullying Behavior  S,8505364.0
+2ps2-dsjr.csv,_05_principal,9530765.0
+disc.csv,A29 Gang Related Behavior R,8385653.0
+45nu-yrf2.csv,6 EXPULSIONS,8107817.0
+kg6x-kv5b.csv,10 REMOVALS,8677965.0
+i6ky-n2wd.csv,_2_superintendent,8371940.0
+9cvd-uyw6.csv,ELL PRINCIPAL,1.3789128E7
+disc.csv,A52 Group Violence S,9208757.0
+naib-xtez.csv,a40_taking_property_without,8475841.0
+t5qg-w9sq.csv,B31 Scholastic Dishonesty R,8236372.0
+64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,1.0944754E7
+naib-xtez.csv,a34_coercion_threats_p,8575172.0
+kcey-vehy.csv,qsurveyzone_home,874401.0
+g3xg-qtbc.csv,approx_date_closed,109714.0
+fx4z-5xg2.csv,stop_question_frisk_complaint,2372471.0
+vc9v-wg6y.csv,ell_arabic,6411748.0
+8nqg-ia7v.csv,flag_mc,8533026.0
+iz2q-9x8d.csv,total_est_fee,228455.0
+jpcp-ic7c.csv,qworktravelcode06,4255001.0
+x5tk-fa54.csv,year_5_estimate,1.9619459E7
+uu87-uz8m.csv,asc_contact_perp,2199552.0
+268n-a7em.csv,local,9909459.0
+reri-chf8.csv,grade_12,1.0193844E7
+6bqn-qdwq.csv,tnc_mode,3798672.0
+ek6b-5n74.csv,description_of_code,204137.0
+4nft-bihw.csv,tax_year,505786.0
+n84m-kx4j.csv,vehicle_engine_horsepower,1562320.0
+wcm8-aq5w.csv,propane_use_kbtu,1.1272525E7
+4tys-3tzj.csv,multifamily_housing_number,1.1177463E7
+njjd-3gve.csv,q21_r4_c2,2.9384236E7
+utpj-74fz.csv,retail_store_number_of_open,1.6123368E7
+m8p6-tp4b.csv,yrb_rng,2.9002023E7
+utpj-74fz.csv,percent_of_electricity_that,2.807827E7
+f33j-ecpr.csv,q21_r1_c2,3.1461179E7
+nbun-wekj.csv,municipally_supplied_potable_1,1.1039737E7
+yr5p-wjer.csv,stadium_closed_gross_floor,1.1165488E7
+yr5p-wjer.csv,worship_facility_gross_floor,1.1065492E7
+njjd-3gve.csv,q20_r7_c4,9.4815447E7
+wa2y-rh4b.csv,noncity_yr1_plan,2.5745447E7
+wcm8-aq5w.csv,percent_of_electricity_that,2.923659E7
+6e44-8i2s.csv,larceny_or_other_theft_with_weapon_s,2.7810066E7
+utpj-74fz.csv,bank_branch_number_of,1.1285127E7
