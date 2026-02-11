@@ -1,3 +1,4 @@
+method_name,query_file,query_column,query_selectivity,TP,FP,FN,TN,accuracy,precision,recall,f1-score,time,threshold,dataset
 cms,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,880,0,0,58589,1.0,1.0,1.0,1.0,705.2661106586456,0.9,nyc
 cms_sampling,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,880,21,0,58568,0.9996468748423548,0.97669256381798,1.0,0.9882088714205502,350.2300250530243,0.9,nyc
 cms_earlystopping,64pu-zyr2.csv,A36 Intimidating and Bullying Behavior R,medium,4,0,876,58589,0.9852696362810877,1.0,0.004545454545454545,0.009049773755656108,35.55438590049744,0.9,nyc
@@ -223,3 +224,4 @@ cms_sampling,ijzq-5wy8.csv,modes_used_june_bus,medium,110,4,8,59347,0.9997982141
 cms_earlystopping,ijzq-5wy8.csv,modes_used_june_bus,medium,118,0,0,59351,1.0,1.0,1.0,1.0,138.17353296279907,0.9,nyc
 cms_minhash,ijzq-5wy8.csv,modes_used_june_bus,medium,117,9,1,59342,0.9998318451630261,0.9285714285714286,0.9915254237288136,0.9590163934426229,1.1437761783599854,0.9,nyc
 cms_minhash_lsh,ijzq-5wy8.csv,modes_used_june_bus,medium,117,9,1,59342,0.9998318451630261,0.9285714285714286,0.9915254237288136,0.9590163934426229,0.013386249542236328,0.9,nyc
+
