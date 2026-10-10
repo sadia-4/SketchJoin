@@ -1,4 +1,4 @@
-method_name,query_file,query_column,time,minhash_creation_time,threshold,dataset,width,depth,candidates,numbers_of_elements
+method_name,query_file,query_column,time,minhash_creation_time,threshold,dataset,width,depth,candidates,number_of_elements
 cms_minhash_lsh,confidence_score_lookup.csv,confidence_score,0.03621673583984375,0.0009036064147949219,0.7,chembl_2000_5,2000,5,3,10
 cms_minhash_lsh,research_companies.csv,previous_company,0.012323617935180664,0.0011794567108154297,0.7,chembl_2000_5,2000,5,1,101
 cms_minhash_lsh,biotherapeutics.csv,description,0.012349843978881836,0.004361629486083984,0.7,chembl_2000_5,2000,5,1,1250
