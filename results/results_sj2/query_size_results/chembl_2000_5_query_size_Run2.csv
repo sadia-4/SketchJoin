@@ -1,0 +1,8 @@
+method_name,query_file,query_column,time,minhash_creation_time,threshold,dataset,width,depth,candidates
+cms_minhash_lsh,research_companies.csv,previous_company,0.01218557357788086,0.0011277198791503906,0.7,chembl_2000_5,2000,5,1
+cms_minhash_lsh,confidence_score_lookup.csv,confidence_score,0.03630852699279785,0.0007758140563964844,0.7,chembl_2000_5,2000,5,3
+cms_minhash_lsh,biotherapeutics.csv,description,0.012310028076171875,0.004372119903564453,0.7,chembl_2000_5,2000,5,1
+cms_minhash_lsh,product_patents.csv,patent_use_code,0.012398719787597656,0.0050067901611328125,0.7,chembl_2000_5,2000,5,1
+cms_minhash_lsh,assays.csv,assay_test_type,0.012250661849975586,0.0005755424499511719,0.7,chembl_2000_5,2000,5,1
+cms_minhash_lsh,compound_records.csv,src_compound_id,0.39017248153686523,0.006908416748046875,0.7,chembl_2000_5,2000,5,33
+cms_minhash_lsh,activities.csv,activity_comment,0.012339115142822266,0.0054476261138916016,0.7,chembl_2000_5,2000,5,1
