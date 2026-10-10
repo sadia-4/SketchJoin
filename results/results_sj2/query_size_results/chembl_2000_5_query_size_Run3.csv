@@ -3,6 +3,6 @@ cms_minhash_lsh,confidence_score_lookup.csv,confidence_score,0.03621673583984375
 cms_minhash_lsh,research_companies.csv,previous_company,0.012323617935180664,0.0011794567108154297,0.7,chembl_2000_5,2000,5,1,101
 cms_minhash_lsh,biotherapeutics.csv,description,0.012349843978881836,0.004361629486083984,0.7,chembl_2000_5,2000,5,1,1250
 cms_minhash_lsh,product_patents.csv,patent_use_code,0.01231837272644043,0.004942178726196289,0.7,chembl_2000_5,2000,5,1,10682
-cms_minhash_lsh,assays.csv,assay_test_type,0.012275457382202148,0.0005772113800048828,0.7,chembl_2000_5,2000,5,109229
+cms_minhash_lsh,assays.csv,assay_test_type,0.012275457382202148,0.0005772113800048828,0.7,chembl_2000_5,2000,5,1,109229
 cms_minhash_lsh,compound_records.csv,src_compound_id,0.3888583183288574,0.006884336471557617,0.7,chembl_2000_5,2000,5,33,1307651
 cms_minhash_lsh,activities.csv,activity_comment,0.012298107147216797,0.005473136901855469,0.7,chembl_2000_5,2000,5,1,10337115
