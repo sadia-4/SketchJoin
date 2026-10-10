@@ -1,0 +1,8 @@
+method_name,query_file,query_column,time,minhash_creation_time,threshold,dataset,width,depth,candidates,number_of_elements
+cms_minhash_lsh,ubkx-acdh.csv,notes,0.08466553688049316,0.0006704330444335938,0.7,nyc_2000_5,2000,5,7,10
+cms_minhash_lsh,fp78-wt5b.csv,duallanguageprograms,1.9773547649383545,0.0006799697875976562,0.7,nyc_2000_5,2000,5,163,100
+cms_minhash_lsh,93d2-wh7s.csv,totalunits,4.74104118347168,0.0012252330780029297,0.7,nyc_2000_5,2000,5,390,1000
+cms_minhash_lsh,ihfw-zy9j.csv,male_num,0.13239097595214844,0.003638744354248047,0.7,nyc_2000_5,2000,5,11,10034
+cms_minhash_lsh,zz_tbl_28.csv,f729,0.012409687042236328,0.0005841255187988281,0.7,nyc_2000_5,2000,5,1,101017
+cms_minhash_lsh,zz_tbl_0.csv,f85,0.21701669692993164,0.0008382797241210938,0.7,nyc_2000_5,2000,5,18,1014694
+cms_minhash_lsh,zz_w4pv-hbkt.csv,Revocation Indicator,2.107797145843506,0.0006630420684814453,0.7,nyc_2000_5,2000,5,174,11905122
